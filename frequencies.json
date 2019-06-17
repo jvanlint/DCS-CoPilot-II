@@ -1,1 +1,41 @@
-
+{
+    "frequencies": [
+        {
+            "name": "Magic",
+            "frequency": "251.000",
+            "modulation": "AM"
+            "type": "e3"
+        },
+        {
+            "name": "Guard (CAP)",
+            "frequency": "251.000",
+            "modulation": "AM"
+            "type": "capGuard"
+        },
+        {
+            "name": "Guard (Strike)",
+            "frequency": "251.000",
+            "modulation": "AM"
+            "type": "casGuard"
+        },
+        {
+            "name": "Stennis",
+            "frequency": "251.000",
+            "modulation": "AM"
+            "type": "carrier"
+        },
+        {
+            "name": "Tarawa",
+            "frequency": "251.000",
+            "modulation": "AM"
+            "type": "carrier"
+        },
+        {
+            "name": "JTAC",
+            "frequency": "251.000",
+            "modulation": "AM"
+            "type": "jtac"
+        },
+        
+    ]
+}
