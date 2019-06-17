@@ -1,5 +1,4 @@
-{
-    "waypoints": [
+[
         {
             "name": "Arco",
             "latitude": 42.535901035417,
@@ -14,6 +13,4 @@
             "elevation": 88.392250061035,
             "type": "Target"
         },
-        
-    ]
-}
+ ]
