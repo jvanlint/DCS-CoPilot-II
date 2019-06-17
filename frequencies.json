@@ -3,37 +3,37 @@
         {
             "name": "Magic",
             "frequency": "251.000",
-            "modulation": "AM"
+            "modulation": "AM",
             "type": "e3"
         },
         {
             "name": "Guard (CAP)",
             "frequency": "251.000",
-            "modulation": "AM"
+            "modulation": "AM",
             "type": "capGuard"
         },
         {
             "name": "Guard (Strike)",
             "frequency": "251.000",
-            "modulation": "AM"
+            "modulation": "AM",
             "type": "casGuard"
         },
         {
             "name": "Stennis",
             "frequency": "251.000",
-            "modulation": "AM"
+            "modulation": "AM",
             "type": "carrier"
         },
         {
             "name": "Tarawa",
             "frequency": "251.000",
-            "modulation": "AM"
+            "modulation": "AM",
             "type": "carrier"
         },
         {
             "name": "JTAC",
             "frequency": "251.000",
-            "modulation": "AM"
+            "modulation": "AM",
             "type": "jtac"
         }
     ]
