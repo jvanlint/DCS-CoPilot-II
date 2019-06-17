@@ -7,19 +7,19 @@
         },
         {
             "name": "Guard (CAP)",
-            "frequency": "251.000",
+            "frequency": "253.000",
             "modulation": "AM",
             "type": "capGuard"
         },
         {
             "name": "Guard (Strike)",
-            "frequency": "251.000",
+            "frequency": "131.000",
             "modulation": "AM",
             "type": "casGuard"
         },
         {
             "name": "Stennis",
-            "frequency": "251.000",
+            "frequency": "275.500",
             "modulation": "AM",
             "type": "carrier"
         },
@@ -30,9 +30,45 @@
             "type": "carrier"
         },
         {
-            "name": "JTAC",
-            "frequency": "251.000",
+            "name": "JTAC SPECTRAL",
+            "frequency": "133.000",
             "modulation": "AM",
             "type": "jtac"
+        },
+        {
+            "name": "Texaco",
+            "frequency": "252.100",
+            "modulation": "AM",
+            "type": "tanker"
+        },
+        {
+            "name": "Arco",
+            "frequency": "252.200",
+            "modulation": "AM",
+            "type": "tanker"
+        },
+        {
+            "name": "Nikel",
+            "frequency": "253.100",
+            "modulation": "AM",
+            "type": "flight"
+        },
+        {
+            "name": "Cat",
+            "frequency": "131.100",
+            "modulation": "AM",
+            "type": "flight"
+        },
+        {
+            "name": "Ragin",
+            "frequency": "131.200",
+            "modulation": "AM",
+            "type": "flight"
+        },
+        {
+            "name": "Devil",
+            "frequency": "131.300",
+            "modulation": "AM",
+            "type": "flight"
         }
 ]
