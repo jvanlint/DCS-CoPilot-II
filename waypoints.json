@@ -1,16 +1,16 @@
 [
         {
             "name": "Arco",
-            "latitude": 42.535901035417,
-            "longitude": 43.111341987483,
-            "elevation": 88.392250061035,
+            "latitude": "N52-25-12",
+            "longitude": "E052-31-45",
+            "elevation": "15000",
             "type": "Tanker"
         },
         {
             "name": "Jask Airfield Hangar",
-            "latitude": 45.006082378134,
-            "longitude": 37.346638855248,
-            "elevation": 88.392250061035,
+            "latitude": "N45-45-25",
+            "longitude": "E054-45-23,
+            "elevation": "88",
             "type": "Target"
         },
  ]
