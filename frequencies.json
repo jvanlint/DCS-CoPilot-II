@@ -1,4 +1,4 @@
-[
+{"frequency": [
         {
             "name": "Magic",
             "frequency": "251.000",
@@ -72,3 +72,4 @@
             "type": "flight"
         }
 ]
+}
