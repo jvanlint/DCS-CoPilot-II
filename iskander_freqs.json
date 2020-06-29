@@ -1,1 +1,57 @@
-
+{"frequencies": [
+        {
+            "name": "Magic",
+            "frequency": "251.00",
+            "modulation": "AM",
+            "type": "e3"
+        },
+        {
+            "name": "Guard (CAP)",
+            "frequency": "133.00",
+            "modulation": "AM",
+            "type": "capGuard"
+        },
+        {
+            "name": "Guard (Strike)",
+            "frequency": "253.00",
+            "modulation": "AM",
+            "type": "casGuard"
+        },
+        {
+            "name": "Stennis",
+            "frequency": "126.00",
+            "modulation": "AM",
+            "type": "carrier"
+        },
+        {
+            "name": "Tarawa",
+            "frequency": "251.00",
+            "modulation": "AM",
+            "type": "carrier"
+        },
+        {
+            "name": "Texaco",
+            "frequency": "252.100",
+            "modulation": "AM",
+            "type": "tanker"
+        },
+        {
+            "name": "Arco",
+            "frequency": "252.200",
+            "modulation": "AM",
+            "type": "tanker"
+        },
+  {
+            "name": "Ras Al Kaimah",
+            "frequency": "121.600",
+            "modulation": "AM",
+            "type": "airfield"
+  },
+  {
+            "name": "Khasab",
+            "frequency": "124.350",
+            "modulation": "AM",
+            "type": "airfield"
+  }
+]
+}
