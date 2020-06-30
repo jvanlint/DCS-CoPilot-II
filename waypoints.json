@@ -1,13 +1,13 @@
 {"waypoints": [
         {
-            "name": "CSAR Station",
+            "name": "CSARSTN",
             "latitude": "N2630000",
             "longitude": "E05457000",
             "elevation": "0",
             "type": "WP"
         },
         {
-            "name": "Pilot Location",
+            "name": "PILOTLOC",
             "latitude": "N2640416",
             "longitude": "E05456083",
             "elevation": "0",
