@@ -1,16 +1,16 @@
 {"waypoints": [
         {
-            "name": "Arco",
-            "latitude": "N52-25-12",
-            "longitude": "E052-31-45",
-            "elevation": "15000",
-            "type": "Tanker"
+            "name": "CSAR Station",
+            "latitude": "N2630.000",
+            "longitude": "E5457.000'",
+            "elevation": "0",
+            "type": "WP"
         },
         {
-            "name": "Jask Airfield Hangar",
-            "latitude": "N45-45-25",
-            "longitude": "E054-45-23",
-            "elevation": "88",
+            "name": "Pilot Location",
+            "latitude": "N2640.416",
+            "longitude": "E54 56.083",
+            "elevation": "0",
             "type": "Target"
         },
  ]
