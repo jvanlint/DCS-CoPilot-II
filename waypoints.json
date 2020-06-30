@@ -2,14 +2,14 @@
         {
             "name": "CSAR Station",
             "latitude": "N2630.000",
-            "longitude": "E5457.000'",
+            "longitude": "E5457.000",
             "elevation": "0",
             "type": "WP"
         },
         {
             "name": "Pilot Location",
             "latitude": "N2640.416",
-            "longitude": "E54 56.083",
+            "longitude": "E5456.083",
             "elevation": "0",
             "type": "Target"
         },
