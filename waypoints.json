@@ -13,5 +13,12 @@
             "elevation": "0",
             "type": "Target"
         },
+        {
+            "name": "CAP STATION",
+            "latitude": "N270000",
+            "longitude": "E544500",
+            "elevation": "10000",
+            "type": "WP"
+        }
  ]
 }
