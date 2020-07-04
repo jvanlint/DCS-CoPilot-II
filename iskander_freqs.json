@@ -1,43 +1,31 @@
 {"frequencies": [
         {
-            "name": "Magic",
-            "frequency": "251.000",
-            "modulation": "AM",
-            "type": "e3"
-        },
-        {
-            "name": "Guard (CAP)",
+            "name": "CAP",
             "frequency": "133.000",
             "modulation": "AM",
             "type": "capGuard"
         },
         {
-            "name": "Guard (Strike)",
+            "name": "Mission",
             "frequency": "253.000",
             "modulation": "AM",
             "type": "casGuard"
         },
         {
             "name": "Stennis",
-            "frequency": "126.000",
-            "modulation": "AM",
-            "type": "carrier"
-        },
-        {
-            "name": "Tarawa",
-            "frequency": "251.000",
+            "frequency": "127.500",
             "modulation": "AM",
             "type": "carrier"
         },
         {
             "name": "Texaco",
-            "frequency": "252.100",
+            "frequency": "230.000",
             "modulation": "AM",
             "type": "tanker"
         },
         {
             "name": "Arco",
-            "frequency": "252.200",
+            "frequency": "240.000",
             "modulation": "AM",
             "type": "tanker"
         },
