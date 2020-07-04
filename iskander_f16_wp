@@ -1,23 +1,37 @@
 {"waypoints": [
         {
-            "name": "CSARSTN",
-            "latitude": "N2630000",
-            "longitude": "E05457000",
+            "name": "Ras Al Khaimah",
+            "latitude": "2536886",
+            "longitude": "05556306",
+            "elevation": "72",
+            "type": "WP"
+        },
+        {
+            "name": "Bandar Lengeh AB",
+            "latitude": "2631983",
+            "longitude": "05449633",
+            "elevation": "75",
+            "type": "WP"
+        },
+        {
+            "name": "Lar AB",
+            "latitude": "2740483",
+            "longitude": "05422933",
+            "elevation": "2635",
+            "type": "WP"
+        },
+        {
+            "name": "Estimated Hostile Fleet",
+            "latitude": "2720250",
+            "longitude": "05145790",
             "elevation": "0",
             "type": "WP"
         },
         {
-            "name": "PILOTLOC",
-            "latitude": "N2640416",
-            "longitude": "E05456083",
-            "elevation": "0",
-            "type": "Target"
-        },
-        {
-            "name": "CAP STATION",
-            "latitude": "N270000",
-            "longitude": "E544500",
-            "elevation": "10000",
+            "name": "Tanker Station",
+            "latitude": "2439150",
+            "longitude": "05237750",
+            "elevation": "18000",
             "type": "WP"
         }
  ]
