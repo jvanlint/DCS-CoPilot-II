@@ -1,1 +1,38 @@
-
+{"waypoints": [
+        {
+            "name": "Hangar N",
+            "latitude": "2536886",
+            "longitude": "05556306",
+            "elevation": "0",
+            "type": "WP"
+        },
+        {
+            "name": "Hangar S",
+            "latitude": "2631983",
+            "longitude": "05449633",
+            "elevation": "0",
+            "type": "WP"
+        },
+        {
+            "name": "Fuel Dump N",
+            "latitude": "2740483",
+            "longitude": "05422933",
+            "elevation": "0",
+            "type": "WP"
+        },
+        {
+            "name": "Fuel Dump S",
+            "latitude": "2720250",
+            "longitude": "05145790",
+            "elevation": "0",
+            "type": "WP"
+        },
+        {
+            "name": "Ammo Depot",
+            "latitude": "2439150",
+            "longitude": "05237750",
+            "elevation": "0",
+            "type": "WP"
+        }
+ ]
+}
