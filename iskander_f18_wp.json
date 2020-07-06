@@ -9,14 +9,14 @@
         {
             "name": "Tanker Station",
             "latitude": "2439150",
-            "longitude": "05237750",
+            "longitude": "5237750",
             "elevation": "18000",
             "type": "WP"
         },
         {
             "name": "Estimated Hostile Fleet",
             "latitude": "2720250",
-            "longitude": "05145790",
+            "longitude": "5145790",
             "elevation": "0",
             "type": "WP"
         }
