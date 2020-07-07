@@ -6,8 +6,14 @@
             "type": "capGuard"
         },
         {
-            "name": "Mission",
-            "frequency": "253.000",
+            "name": "CSAR Mission",
+            "frequency": "248.250",
+            "modulation": "AM",
+            "type": "casGuard"
+        },
+        {
+            "name": "Maritime Mission",
+            "frequency": "235.000",
             "modulation": "AM",
             "type": "casGuard"
         },
@@ -32,12 +38,6 @@
   {
             "name": "Ras Al Kaimah",
             "frequency": "121.600",
-            "modulation": "AM",
-            "type": "airfield"
-  },
-  {
-            "name": "Khasab",
-            "frequency": "124.350",
             "modulation": "AM",
             "type": "airfield"
   }
