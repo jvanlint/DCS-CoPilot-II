@@ -1,22 +1,22 @@
 {"waypoints": [
         {
             "name": "Homeplate",
-            "latitude": "250321",
-            "longitude": "565032",
+            "latitude": "N250321",
+            "longitude": "E565032",
             "elevation": "0",
             "type": "WP"
         },
         {
             "name": "Tanker Station",
-            "latitude": "2439150",
-            "longitude": "5237750",
+            "latitude": "N2439150",
+            "longitude": "E5237750",
             "elevation": "18000",
             "type": "WP"
         },
         {
             "name": "Estimated Hostile Fleet",
-            "latitude": "2720250",
-            "longitude": "5145790",
+            "latitude": "N2720250",
+            "longitude": "E5145790",
             "elevation": "0",
             "type": "WP"
         }
