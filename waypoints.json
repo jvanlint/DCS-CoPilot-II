@@ -4,7 +4,8 @@
             "latitude": "N2630000",
             "longitude": "E05457000",
             "elevation": "0",
-            "type": "WP"
+            "type": "WP",
+            "ToT": "12:10:30"
         },
  ]
 }
