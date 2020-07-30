@@ -2,55 +2,55 @@
         {
             "name": "Magic",
             "frequency": "251.000",
-            "modulation": "AM",
+            "modulation": "UHF",
             "type": "e3"
         },
         {
             "name": "Guard (CAP)",
             "frequency": "253.000",
-            "modulation": "AM",
+            "modulation": "UHF",
             "type": "capGuard"
         },
         {
             "name": "Guard (Strike)",
             "frequency": "131.000",
-            "modulation": "AM",
+            "modulation": "VHF",
             "type": "casGuard"
         },
         {
             "name": "Stennis",
             "frequency": "275.500",
-            "modulation": "AM",
+            "modulation": "UHF",
             "type": "carrier"
         },
         {
             "name": "Tarawa",
             "frequency": "251.000",
-            "modulation": "AM",
+            "modulation": "UHF",
             "type": "carrier"
         },
         {
             "name": "JTAC SPECTRAL",
             "frequency": "133.000",
-            "modulation": "AM",
+            "modulation": "VHF",
             "type": "jtac"
         },
         {
             "name": "Texaco",
             "frequency": "252.100",
-            "modulation": "AM",
+            "modulation": "UHF",
             "type": "tanker"
         },
         {
             "name": "Arco",
             "frequency": "252.200",
-            "modulation": "AM",
+            "modulation": "UHF",
             "type": "tanker"
         },
         {
             "name": "Nikel",
             "frequency": "253.100",
-            "modulation": "AM",
+            "modulation": "UHF",
             "type": "flight"
         },
         {
@@ -68,7 +68,7 @@
         {
             "name": "Devil",
             "frequency": "131.300",
-            "modulation": "AM",
+            "modulation": "VHF",
             "type": "flight"
         }
 ]
