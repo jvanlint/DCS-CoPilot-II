@@ -2,43 +2,43 @@
         {
             "name": "CAP",
             "frequency": "133.000",
-            "modulation": "AM",
+            "modulation": "VHF",
             "type": "capGuard"
         },
         {
             "name": "CSAR Mission",
             "frequency": "248.250",
-            "modulation": "AM",
+            "modulation": "UHF",
             "type": "casGuard"
         },
         {
             "name": "Maritime Mission",
             "frequency": "235.000",
-            "modulation": "AM",
+            "modulation": "UHF",
             "type": "casGuard"
         },
         {
             "name": "Stennis",
             "frequency": "127.500",
-            "modulation": "AM",
+            "modulation": "VHF",
             "type": "carrier"
         },
         {
             "name": "Texaco",
             "frequency": "230.000",
-            "modulation": "AM",
+            "modulation": "UHF",
             "type": "tanker"
         },
         {
             "name": "Arco",
             "frequency": "240.000",
-            "modulation": "AM",
+            "modulation": "UHF",
             "type": "tanker"
         },
   {
             "name": "Ras Al Kaimah",
             "frequency": "121.600",
-            "modulation": "AM",
+            "modulation": "VHF",
             "type": "airfield"
   }
 ]
