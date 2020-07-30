@@ -6,19 +6,5 @@
             "elevation": "0",
             "type": "WP"
         },
-        {
-            "name": "PILOTLOC",
-            "latitude": "N2640416",
-            "longitude": "E05456083",
-            "elevation": "0",
-            "type": "WP"
-        },
-        {
-            "name": "CAP STATION",
-            "latitude": "N270000",
-            "longitude": "E544500",
-            "elevation": "10000",
-            "type": "WP"
-        }
  ]
 }
