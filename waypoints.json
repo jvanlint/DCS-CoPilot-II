@@ -1,11 +1,58 @@
 {"waypoints": [
         {
-            "name": "CSAR STN",
-            "latitude": "N2630000",
-            "longitude": "E05457000",
-            "elevation": "0",
+            "name": "Ras Al Khaimah",
+            "latitude": "N2536.886",
+            "longitude": "E05556.306",
+            "elevation": "72",
             "type": "WP",
-            "ToT": "12:10:30"
+            "ToT" : "21:37:00"
         },
+        {
+            "name": "Tanker station",
+            "latitude": "N2439.150",
+            "longitude": "E05237.750",
+            "elevation": "18000",
+            "type": "WP",
+            "ToT" : "20:45:00"
+        },
+        {
+            "name": "WP1 Turn point",
+            "latitude": "N2619.600",
+            "longitude": "E05341.500",
+            "elevation": "25000",
+            "type": "WP",
+            "ToT" : "20:05:00"
+        },
+        {
+            "name": "CAP NW",
+            "latitude": "N2713.600",
+            "longitude": "E05326.400",
+            "elevation": "25000",
+            "type": "WP",
+            "ToT" : "21:00:00"
+        },
+        {
+            "name": "CAP Centre",
+            "latitude": "N2645.100",
+            "longitude": "E05404.600",
+            "elevation": "25000",
+            "type": "WP",
+            "ToT" : "20:08:00"
+        },
+        {
+            "name": "CAP E",
+            "latitude": "N2645.000",
+            "longitude": "E05459.700",
+            "elevation": "25000",
+            "type": "WP",
+            "ToT" : "20:15:00"
+        },
+        {
+            "name": "Estimated Hostile Fleet",
+            "latitude": "N2720.250",
+            "longitude": "E05145.790",
+            "elevation": "0",
+            "type": "WP"
+        }
  ]
 }
