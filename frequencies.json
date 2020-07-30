@@ -56,13 +56,13 @@
         {
             "name": "Cat",
             "frequency": "131.100",
-            "modulation": "AM",
+            "modulation": "VHF",
             "type": "flight"
         },
         {
             "name": "Ragin",
             "frequency": "131.200",
-            "modulation": "AM",
+            "modulation": "VHF",
             "type": "flight"
         },
         {
