@@ -4,7 +4,8 @@
             "latitude": "N2536.886",
             "longitude": "E05556.306",
             "elevation": "72",
-            "type": "WP"
+            "type": "WP",
+            "ToT" : "20:05:00"
         },
         {
             "name": "Tanker station",
