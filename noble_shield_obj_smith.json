@@ -1,0 +1,24 @@
+{"waypoints": [
+        {
+            "name": "SMTH FUEL 1",
+            "latitude": "N250321",
+            "longitude": "E565032",
+            "elevation": "0",
+            "type": "WP"
+        },
+        {
+            "name": "SMTH FUEL 2",
+            "latitude": "N2439150",
+            "longitude": "E5237750",
+            "elevation": "18000",
+            "type": "WP"
+        },
+        {
+            "name": "SMTH FUEL 3",
+            "latitude": "N2720250",
+            "longitude": "E5145790",
+            "elevation": "0",
+            "type": "WP"
+        }
+ ]
+}
