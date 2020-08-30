@@ -4,21 +4,119 @@
             "latitude": "N250321",
             "longitude": "E565032",
             "elevation": "0",
-            "type": "WP"
+            "type": "TGT"
         },
         {
             "name": "SMTH FUEL 2",
             "latitude": "N2439150",
             "longitude": "E5237750",
             "elevation": "18000",
-            "type": "WP"
+            "type": "TGT"
         },
         {
             "name": "SMTH FUEL 3",
             "latitude": "N2720250",
             "longitude": "E5145790",
             "elevation": "0",
-            "type": "WP"
-        }
+            "type": "TGT"
+        },
+        {
+            "name": "SMTH FUEL 4",
+            "latitude": "N2439150",
+            "longitude": "E5237750",
+            "elevation": "18000",
+            "type": "TGT"
+        },
+        {
+            "name": "SMTH FUEL 5",
+            "latitude": "N2439150",
+            "longitude": "E5237750",
+            "elevation": "18000",
+            "type": "TGT"
+        },
+        {
+            "name": "SMTH FUEL 6",
+            "latitude": "N2439150",
+            "longitude": "E5237750",
+            "elevation": "18000",
+            "type": "TGT"
+        },
+        {
+            "name": "SMTH FUEL 7",
+            "latitude": "N2439150",
+            "longitude": "E5237750",
+            "elevation": "18000",
+            "type": "TGT"
+        },
+        {
+            "name": "SMTH FUEL 8",
+            "latitude": "N2439150",
+            "longitude": "E5237750",
+            "elevation": "18000",
+            "type": "TGT"
+        },
+        {
+            "name": "SMTH FUEL 9",
+            "latitude": "N2439150",
+            "longitude": "E5237750",
+            "elevation": "18000",
+            "type": "TGT"
+        },
+        {
+            "name": "SMTH FUEL 10",
+            "latitude": "N2439150",
+            "longitude": "E5237750",
+            "elevation": "18000",
+            "type": "TGT"
+        },
+        {
+            "name": "SMTH FUEL 11",
+            "latitude": "N2439150",
+            "longitude": "E5237750",
+            "elevation": "18000",
+            "type": "TGT"
+        },
+        {
+            "name": "SMTH PUMP 1",
+            "latitude": "N2439150",
+            "longitude": "E5237750",
+            "elevation": "18000",
+            "type": "TGT"
+        },
+        {
+            "name": "SMTH PUMP 2",
+            "latitude": "N2439150",
+            "longitude": "E5237750",
+            "elevation": "18000",
+            "type": "TGT"
+        },
+        {
+            "name": "SMTH PUMP 3",
+            "latitude": "N2439150",
+            "longitude": "E5237750",
+            "elevation": "18000",
+            "type": "TGT"
+        },
+        {
+            "name": "SMTH PUMP 4",
+            "latitude": "N2439150",
+            "longitude": "E5237750",
+            "elevation": "18000",
+            "type": "TGT"
+        },
+        {
+            "name": "SMTH BLDG 1",
+            "latitude": "N2439150",
+            "longitude": "E5237750",
+            "elevation": "18000",
+            "type": "TGT"
+        },
+        {
+            "name": "SMTH BLDG 2",
+            "latitude": "N2439150",
+            "longitude": "E5237750",
+            "elevation": "18000",
+            "type": "TGT"
+        },
  ]
 }
