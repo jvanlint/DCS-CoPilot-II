@@ -3,9 +3,5 @@
     "name": "string",
     "connected": "date"
     
-  },
-  "Comment": {
-    "body": "string",
-    "post": "Post"
   }
 }
